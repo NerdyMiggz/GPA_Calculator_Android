@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPA_rosam4_Calculator</string>
+    <string name="gpa_calculator_for_3_credit_courses">GPA Calculator for 3 Credit Courses</string>
+    <string name="enter_grade"></string>
+    <string name="ComputeGPA">Compute GPA</string>
+    <string name="Instructions">Only use numbers.  Letters will cause app to crash!</string>
+</resources>
